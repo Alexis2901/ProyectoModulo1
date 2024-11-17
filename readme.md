@@ -1,0 +1,2 @@
+### Proyecto final Modulo 1
+Este proyecto recopila los conocimientos adquiridos durante el modulo uno, con la finalidad de mostrar la aplicación de estos en la elaboración de una página web estructurada utilizando etiquetas HTML semánticas (body, header, footer). Además, se implementaron otros recursos como el uso de las etiquetas “h1” o algunos recursos de css, para darle una mejor presentación al proyecto.
